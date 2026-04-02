@@ -72,7 +72,7 @@ kommer att verka globalt.
     git config --global alias.sammanfoga.command merge
     git config --global alias.göm.command stash
     git config --global alias.klandra.command blame
-    git config --global alias.marke.command tag
-    git config --global alias.mark.command tag
+    git config --global alias.märke.command tag
+    git config --global alias.märk.command tag
 
     alias jävel=git
